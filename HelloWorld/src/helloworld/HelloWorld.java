@@ -16,5 +16,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello, WOrld");
+        System.out.println("Program ini adalah program percobaan");
     }
 }
